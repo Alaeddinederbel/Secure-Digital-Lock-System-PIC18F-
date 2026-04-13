@@ -181,7 +181,7 @@ ipecmd -TPPK4 -P18F4550 -Flock.hex -M
 ## Project structure
 
 ```
-secure_lock_pic18f/
+Secure-Digital-Lock-System-PIC18F-/
 ├── main.c          State machine + main loop
 ├── lcd.c / .h      HD44780 LCD driver (4-bit)
 ├── keypad.c / .h   4×4 matrix keypad with debounce
